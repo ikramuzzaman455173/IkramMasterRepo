@@ -136,11 +136,17 @@
 ## 📘 Additional Resources
 
 ### Useful Links & Tutorials
+
 | Resource Name                          | Description                                                                           | Link                                                                                      | Features & Highlights                                              |
 |----------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| **React Documentation**                | Official React documentation for learning and reference.                             | [View Documentation](https://reactjs.org/docs/getting-started.html)                      | Comprehensive React documentation                                    |
-| **Tailwind CSS Documentation**         | Official Tailwind CSS documentation for styling.                                      | [View Documentation](https://tailwindcss.com/docs)                                       | Tailwind CSS documentation for styling and utilities                |
-| **Node.js Documentation**              | Official Node.js documentation for backend development.                              | [View Documentation](https://nodejs.org/en/docs/)                                        | Node.js documentation for backend development                       |
+| **Web Developers Figma Resources**     | A curated collection of Figma resources and design assets tailored for web developers. | [View GitHub](https://github.com/jakaria455173/Web-Developers-Figma-Resources)            | Comprehensive library of Figma resources, design templates, and tools tailored for web development.          |
+| **Awesome React Components**           | A collection of high-quality React components and libraries for building modern web applications. | [View GitHub](https://github.com/jakaria455173/awesome-react-components) | Curated list of reusable React components and libraries, including UI elements, hooks, and utilities. |
+| **Most Important Website & CDN File Links** | A curated collection of essential website resources and CDN links for web development. | [View GitHub](https://github.com/jakaria455173/most-important-website-and-cdn-file-links) | Includes key website resources, CDN links for popular libraries, and tools essential for modern web development. |
+| **Best Resources for JavaScript Learners** | A curated collection of essential resources and tools specifically for beginners learning JavaScript. | [View GitHub](https://github.com/jakaria455173/Most-usefull-resources-for-begginer-js-learners) | Comprehensive list of beginner-friendly tutorials, guides, and tools to help with learning JavaScript. |
+
+
+
+                    
 
 ---
 
