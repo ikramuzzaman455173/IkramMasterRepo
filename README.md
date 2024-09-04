@@ -81,11 +81,12 @@
 ## 🧠 JavaScript & Interview Preparation
 
 ### JavaScript Interview Questions
+
 | Resource Name                        | Description                                                                           | Link                                                                                      | Features & Highlights                                              |
 |--------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| **Comprehensive JavaScript Guide**   | All-in-one guide for JavaScript interviews, covering key concepts and practical examples. | [View Guide](https://github.com/jakaria455173/best-for-javascript-interview)            | In-depth coverage of JavaScript fundamentals and advanced topics    |
+
 | **Common Interview Questions**        | Collection of frequently asked JavaScript interview questions and answers.           | [View Questions](https://github.com/jakaria455173/javascript-interview-questions)        | Frequently asked questions with detailed answers                   |
-| **JavaScript Tips & Tricks**          | Useful tips and tricks to enhance your JavaScript coding skills.                     | [View Tips](https://github.com/jakaria455173/javascript-tricks-tips)                     | Practical tips and tricks for better JavaScript coding practices    |
+
 
 ---
 
