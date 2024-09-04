@@ -82,12 +82,12 @@
 
 ### JavaScript Interview Questions
 
-| Resource Name                        | Description                                                                           | Link                                                                                      | Features & Highlights                                              |
-|--------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Resource Name                    | Description                                                                           | Link                                                                                     | Features & Highlights                                |
+|----------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| **Common Interview Questions**    | Collection of frequently asked JavaScript interview questions and answers.           | [View Questions](https://github.com/jakaria455173/javascript-interview-questions)       | Frequently asked questions with detailed answers   |
 
-| **Common Interview Questions**        | Collection of frequently asked JavaScript interview questions and answers.           | [View Questions](https://github.com/jakaria455173/javascript-interview-questions)        | Frequently asked questions with detailed answers                   |
 
-
+            
 ---
 
 <a name="css--design-resources"></a>
