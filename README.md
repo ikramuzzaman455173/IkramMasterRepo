@@ -9,13 +9,14 @@
 ## 📋 Table of Contents
 1. [Featured Projects](#featured-projects)
 2. [React & Tailwind Projects](#react--tailwind-projects)
-3. [Backend Development](#backend-development)
-4. [JavaScript & Interview Preparation](#javascript--interview-preparation)
-5. [CSS & Design Resources](#css--design-resources)
-6. [Tools & Cheat Sheets](#tools--cheat-sheets)
-7. [Best Practices](#best-practices)
-8. [Additional Resources](#additional-resources)
-9. [Personal Private Repository](#personal-private-repository)
+3. [My Project Structure Files on GitHub](#my-project-Structure-files-on-gitHub)
+4. [Backend Development](#backend-development)
+5. [JavaScript & Interview Preparation](#javascript--interview-preparation)
+6. [CSS & Design Resources](#css--design-resources)
+7. [Tools & Cheat Sheets](#tools--cheat-sheets)
+8. [Best Practices](#best-practices)
+9. [Additional Resources](#additional-resources)
+10. [Personal Private Repository](#personal-private-repository)
 
 ---
 
@@ -45,6 +46,22 @@
 | **Pagination Step By Step**              | Guide and implementation of pagination components using React and Tailwind CSS.       | [View Guide](https://github.com/jakaria455173/Pagination-step-by-step-react--tailwindCSS) | React, Tailwind CSS                                                |
 
 ---
+
+<a name="#my-project-Structure-files-on-gitHub"></a>
+
+### My Project Structure Files on GitHub
+
+| Repository Name | Open Repository | Repository Info |
+| --------------- | --------------- | --------------- |
+| Simple React & Tailwind CSS Starter Template | [Open](https://github.com/ikramuzzaman455173/react-tailwind-starter-templates) | Basic setup for React projects using Tailwind CSS. Ideal for quick starts. |
+| Complete React & Tailwind CSS Project Setup | [Open](https://github.com/ikramuzzaman455173/complete-react-project-setup-structure-file) | Comprehensive project structure for React and Tailwind CSS, including advanced configurations. |
+| Basic React Starter Templates | [Open](https://github.com/ikramuzzaman455173/basic-react-starter-templates) | Collection of fundamental React starter templates for quick application development. |
+| React TypeScript & Tailwind CSS Starter Templates | [Open](https://github.com/ikramuzzaman455173/react-typescript-tailwind-starter-templates) | Starter templates for React projects using TypeScript and Tailwind CSS. |
+| React TypeScript & Tailwind CSS with Redux | [Open](https://github.com/ikramuzzaman455173/react-typescript-tailwind-redux-starter-template) | Starter templates for React projects with TypeScript, Tailwind CSS, and Redux integration. |
+| React TypeScript & Tailwind CSS Redux Basic Layout | [Open](https://github.com/ikramuzzaman455173/react-typescript-tailwind-redux-starter-layout-setup-template) | Basic layout setup for React projects using TypeScript, Tailwind CSS, and Redux. |
+| ReactJS Authentication System Starter Template | [Open](https://github.com/ikramuzzaman455173/authenication-react-js-starter-template) | Starter template for implementing login and registration authentication in ReactJS. |
+| Next.js Starter Template with Dashboard Layout | [Open](https://github.com/ikramuzzaman455173/next-js-starter-template) | Starter template for Next.js projects featuring a dashboard layout. |
+
 
 <a name="backend-development"></a>
 
