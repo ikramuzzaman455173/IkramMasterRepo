@@ -164,10 +164,13 @@
 
 ## 🔏 Private & Personal Projects
 
-| **Project Name**           | **Link**                                             | **Description**                                                                                 | **Features & Highlights**                            |
-|----------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| **My Private Repository**  | [GitHub](https://github.com/yourusername/your-private-repo) | A curated collection of personal projects, experiments, and advanced implementations. | Modular code architecture, comprehensive documentation, advanced design patterns. |
-
+| **Project Name**                                     | **Link**                                                                                 | **Description**                                                                                                 | **Features & Highlights**                                                     | **Type**   |
+|------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
+| **Personal Portfolio Jakaria**                       | [View GitHub](https://github.com/jakaria455173/personal-portfolio-jakaria)               | Personal portfolio showcasing projects and skills.                                                              | Responsive design, modern UI/UX, project highlights.                          | Private    |
+| **TypeScript Beginner's Guide**                      | [View GitHub](https://github.com/ikramuzzaman455173/Absolutes-begginer-guide-in-typescript) | A beginner-friendly guide to learning TypeScript from scratch.                                                  | Step-by-step tutorials, type safety tips, practical examples.                 | Private    |
+| **Modern API Request Handling**                      | [View GitHub](https://github.com/ikramuzzaman455173/modern-api-request-handle-for-server-sight) | Guide on handling modern API requests in server-side applications.                                               | Best practices, secure API handling, error management.                        | Private    |
+| **Store My Personal Project Env 😀**                 | [View GitHub](https://github.com/ikramuzzaman455173/personal-env-store)                  | A secure repository for storing environment variables for personal projects.                                    | Private storage, easy access, secure management.                              | Private    |
+| **Super Snippet's My Own Visual Studio Code Extension 💥 😀** | [View GitHub](https://github.com/ikramuzzaman455173/super-snippets)                       | A custom Visual Studio Code extension for personal code snippets.                                               | Time-saving, customizable snippets, seamless integration with VS Code.        | Private    |
 
 ## 🌟 Conclusion
 
