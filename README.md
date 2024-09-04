@@ -6,6 +6,15 @@
 
 ---
 
+<h3 align="center">👋 Discover My GitHub Resume</h2>
+<p align="center">
+  <a href="https://github.com/ikramuzzaman455173/Ikramuzzaman-personal-github-resume" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Resume-blue?style=for-the-badge&logo=github&logoColor=white" alt="View My GitHub Resume"/>
+  </a>
+</p>
+
+
+
 ## 📋 Table of Contents
 1. [Featured Projects](#featured-projects)
 2. [React & Tailwind Projects](#react--tailwind-projects)
@@ -143,6 +152,7 @@
 | **Awesome React Components**           | A collection of high-quality React components and libraries for building modern web applications. | [View GitHub](https://github.com/jakaria455173/awesome-react-components) | Curated list of reusable React components and libraries, including UI elements, hooks, and utilities. |
 | **Most Important Website & CDN File Links** | A curated collection of essential website resources and CDN links for web development. | [View GitHub](https://github.com/jakaria455173/most-important-website-and-cdn-file-links) | Includes key website resources, CDN links for popular libraries, and tools essential for modern web development. |
 | **Best Resources for JavaScript Learners** | A curated collection of essential resources and tools specifically for beginners learning JavaScript. | [View GitHub](https://github.com/jakaria455173/Most-usefull-resources-for-begginer-js-learners) | Comprehensive list of beginner-friendly tutorials, guides, and tools to help with learning JavaScript. |
+| **Vercel & Netlify Alternatives** | A curated collection of alternative hosting platforms and services similar to Vercel and Netlify. | [View GitHub](https://github.com/ikramuzzaman455173/vercel-netlify-alternative-sites) | Includes a variety of hosting solutions and platforms for deploying web applications and static sites. |
 
 
 
