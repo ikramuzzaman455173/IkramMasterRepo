@@ -128,13 +128,11 @@
 
 <a name="personal-private-repository"></a>
 
-## 9. Private & Personal Projects
+## 🔏 Private & Personal Projects
 
-| Name                                              | Link                                                                                     | Description                                        | Features & Highlights                           |
-|---------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
-| **My Private Repository**                        | [GitHub](https://github.com/yourusername/your-private-repo)                             | A well-organized and highly standardized repository containing personal projects, experiments, and advanced implementations. | Includes modular code architecture, comprehensive documentation, and advanced design patterns. |
-
----
+| **Project Name**           | **Link**                                             | **Description**                                                                                 | **Features & Highlights**                            |
+|----------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| **My Private Repository**  | [GitHub](https://github.com/yourusername/your-private-repo) | A curated collection of personal projects, experiments, and advanced implementations. | Modular code architecture, comprehensive documentation, advanced design patterns. |
 
 
 ## 🌟 Conclusion
